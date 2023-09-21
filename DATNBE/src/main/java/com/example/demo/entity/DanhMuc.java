@@ -19,5 +19,9 @@ public class DanhMuc implements Serializable {
     private UUID id;
     private String ma;
     private String ten;
+<<<<<<< HEAD
     private Integer trangthai;
+=======
+    private String trangthai;
+>>>>>>> origin/khachhang
 }
